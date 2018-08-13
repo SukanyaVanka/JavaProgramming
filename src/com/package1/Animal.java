@@ -29,6 +29,6 @@ public abstract class Animal {
         a.getAnimalType();
 System.out.println(a.getAnimalType());
 
-
+System.out.println();
  }
 }
